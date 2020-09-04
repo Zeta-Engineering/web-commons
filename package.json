@@ -1,0 +1,19 @@
+{
+  "name": "@zeta/test",
+  "version": "0.0.1",
+  "description": "Test zeta package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zeta-Engineering/web-commons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zeta-Engineering/web-commons/issues"
+  },
+  "homepage": "https://github.com/Zeta-Engineering/web-commons#readme"
+}
